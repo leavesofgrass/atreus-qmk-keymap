@@ -1,6 +1,6 @@
 {
   "keyboard": "atreus",
-  "keymap": "atreus_lisp_map",
+  "keymap": "atreus-keymap-tweaks",
   "layout": "LAYOUT",
   "layers": [
     [
