@@ -4,3 +4,4 @@
 * Set keycodes for SpaceCadet shift in all layers
 * Changed the alt keycodes (`left alt`) to `right alt` in all layers
 * Changed the `backspace` key in the function layer to a `delete` key
+* Layer for Photoshop Toolbox added
